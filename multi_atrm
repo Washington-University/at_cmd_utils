@@ -1,4 +1,5 @@
 #!/bin/bash
+# removes a list of at command jobs
 
 printf "Enter name of file containing at job numbers: "
 read job_numbers_file_name
